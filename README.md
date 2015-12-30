@@ -32,7 +32,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-I think the most challenging part was actually getting Xcode to work on my Mac because I deleted Python version 2.7 and this caused led to it not being able to run. However after finding out the problem was because I didn't have the right Python version and therefore XCode didn't have the right plugins I reinstalled Python 2.7 and throughout this process encountered some other issues.
+I think the most challenging part was actually getting Xcode to work on my Mac because I deleted Python version 2.7 and this led to it not being able to run. However after finding out the problem was because I didn't have the right Python version and therefore XCode didn't have the right plugins I reinstalled Python 2.7 and throughout this process encountered some other issues.
 
 ## License
 
