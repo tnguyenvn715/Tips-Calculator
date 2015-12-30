@@ -37,7 +37,7 @@ I think the most challenging part was actually getting Xcode to work on my Mac b
 
 ## License
 
-Copyright [2014] [Tam Nguyen]
+Copyright [2015] [Tam Nguyen]
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
